@@ -28,4 +28,4 @@ Tp.py is the python file that runs the code. Other files included in the reposit
 * Canny Edge Detection
 
 ## Links:
-[I'm an inline-style link](https://www.youtube.com/watch?v=juUnIJLmm7Q&feature=youtu.be)
+<https://www.youtube.com/watch?v=juUnIJLmm7Q&feature=youtu.be>
