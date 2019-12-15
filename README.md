@@ -1,8 +1,6 @@
 # Medical Study Application
 ---------------------------
 ---------------------------
- 
-This is the readme file for the Medical Study Application Project
 
 ## What is this project?:
 
@@ -25,4 +23,9 @@ Tp.py is the python file that runs the code. Other files included in the reposit
 	Then on the top of your .py file write: 
     from pygame import mixer
 
+## Primary Algorithms used:
+* Color Space Image Segmentation
+* Canny Edge Detection
+
 ## Links:
+[I'm an inline-style link](https://www.youtube.com/watch?v=juUnIJLmm7Q&feature=youtu.be)
