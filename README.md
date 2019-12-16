@@ -4,7 +4,7 @@
 
 ## What is this project?:
 
-Grey's 101 is a Medical Study Application that I created for my term project in the 15-112 course at CMU during the 2019 Fall Semster. This app uses a variety of interactive techniques to help students learn their anatomy. Python was the primary languge used to write this application.
+Grey's 101 is a Medical Study Application that I created for my term project in the 15-112 course at CMU during the 2019 Fall Semester. This app uses a variety of interactive techniques to help students learn their anatomy. Python was the primary language used to write this application.
 
 ## Files included:
 
